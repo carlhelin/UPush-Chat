@@ -1,5 +1,5 @@
 # UPush-Chat
-UDP chat service programmed in C
+UDP chat service programmed in C, a part of the course in "Introduction to operating systems and data communication"
 
 ## Usage
 ### Compile
